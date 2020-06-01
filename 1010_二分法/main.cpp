@@ -78,15 +78,4 @@ int main(){
         cout << "Impossible";
     system("PAUSE");
     return 0;
-    // string n1, n2;
-    // int tag, radix;
-    // cin >> n1 >> n2 >> tag >> radix;
-    // if (tag == 2)swap(n1, n2);
-    // LL number1 = getnum(n1, radix);
-    // LL low = getlow(n2);
-    // LL high = max(number1, low) + 1;
-    // LL ans=binarysearch(low, high, number1, n2);
-    // if (ans != -1)printf("%d", ans);
-    // else printf("Impossible");
-    // system("PAUSE");
 }
